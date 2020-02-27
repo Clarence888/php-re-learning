@@ -2,8 +2,8 @@
 
 error_reporting(E_ALL);
 
-$ROOT_DIR = realpath(dirname(__FILE__).'/lib-php/');
-$GEN_DIR = realpath(dirname(__FILE__)).'/gen-php/';
+$ROOT_DIR = realpath(dirname(__FILE__).'/../lib/php/');
+$GEN_DIR = realpath(dirname(__FILE__)).'/../gen-php/';
 require_once $ROOT_DIR.'/Thrift/ClassLoader/ThriftClassLoader.php';
 
 use Thrift\ClassLoader\ThriftClassLoader;
