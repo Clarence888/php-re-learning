@@ -194,7 +194,7 @@ class ThriftClassLoader
                     $file = $dir . DIRECTORY_SEPARATOR .
                         str_replace('\\', DIRECTORY_SEPARATOR, $namespace) .
                         DIRECTORY_SEPARATOR .
-                        $className . '.php';
+                        $class . '.php';
 
                     if (file_exists($file)) {
                         return $file;
