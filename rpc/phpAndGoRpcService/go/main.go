@@ -7,7 +7,7 @@ import (
     "fmt"
     "github.com/apache/thrift/lib/go/thrift"
     "os"
-    "/root/php-re-learning/rpc/phpAndGoRpcService/gen-go/Sample"
+    "phpAndGoRpcService/gen-go/Sample"
 )
 
 func Usage() {
