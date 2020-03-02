@@ -11,7 +11,8 @@ import (
 var ctx = context.Background()
 
 func GetClient() *Sample.GreeterClient {
-    addr := ":9090"
+   //addr := "211.159.180.243:8989"
+   addr := "129.226.139.199:9191"
     var transport thrift.TTransport
     var err error
     transport, err = thrift.NewTSocket(addr)
@@ -42,7 +43,7 @@ func GetClient() *Sample.GreeterClient {
     client := Sample.NewGreeterClient(thrift.NewTStandardClient(iprot, oprot))
     return client
 }
-
+/*
 //GetUser
 func TestGetUser(t *testing.T) {
     client := GetClient()
@@ -53,19 +54,23 @@ func TestGetUser(t *testing.T) {
         t.Logf("Recevied: %v\n", rep)
     }
 }
+*/
 
 //SayHello
 func TestSayHello(t *testing.T) {
     client := GetClient()
-
     user := &Sample.User{}
-    user.Name = "thrift"
-    user.Address = "address"
-
-    rep, err := client.SayHello(ctx, user)
-    if err != nil {
-        t.Errorf("thrift err: %v\n", err)
-    } else {
-        t.Logf("Recevied: %v\n", rep)
-    }
+    user.Name = "thrift is a framework"
+    user.Address = "北京海淀"
+	for i := 1;i<5000; i++ {
+		go func() {
+			fmt.Println(i)
+			rep, err := client.SayHello(ctx, user)
+			if err != nil {
+				t.Errorf("thrift err: %v\n", err)
+			} else {
+				t.Logf("Recevied: %v\n", rep)
+			}
+		}()
+	}
 }
