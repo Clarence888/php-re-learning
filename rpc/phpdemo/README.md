@@ -55,3 +55,13 @@ thrift --gen php:server HelloWorld.thrift（不指明:server不生成processor�
 注意服务端监听端口 0.0.0.0 : 9111
 
 注意vps可能需要防火墙加入允许访问接口。
+安装Thrift类库：
+
+1.直接将官方下载的thrift安装包里面的thrift/lib/php/lib复制到对应php项目
+
+2.通过composer包管理器安装类库（注意和Thrift软件版本一致）：
+
+composer require apache/thrift 0.10.0
+生成Thrift文件：
+//不需要服务端 可以 不用那个server
+thrift -gen php:server ../UserService.thrift
