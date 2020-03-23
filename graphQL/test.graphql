@@ -1,0 +1,33 @@
+query aaa {
+    totalPhoyos
+    allPhotos{
+        name
+        url
+    }
+}
+
+query getAUser {
+    User(githubLogin:"MoonTahoe") {
+        name
+        avatar
+    }
+}
+
+query getPhoto {
+    Photo(id:"11hh1jk1j1k1111") {
+        name
+        description
+        url
+    }
+}
+
+query fenteUser {
+    fenyeAllUsers(first: 10,start: 90){ #查找第90到100个用户
+        name
+        avatar
+    }
+}
+
+query paixuPhoto {
+    paixuPhotos(sortBy: name)
+}
