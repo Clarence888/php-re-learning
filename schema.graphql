@@ -119,10 +119,35 @@ type Mutation {
         description:String
         category:PhotoCategory=PORTRAIT
     ):Photo!
+    postPhoto2(input:PostPhotoInput):Photo! #使用输入类型
 }
+
+#输入类型  为了规整参数 防止过长的参数 类似一个数据对象 仅仅用来输入参数而已
+
+input PostPhotoInput {
+    name:String!
+    description:String
+    category:PhotoCategory=PORTRAIT
+}
+
+#然后加入到上面的postPhoto2
+
+
+#返回类型？？  可以自有附带相关信息到返回数据
+
+#订阅类型 subscription
+#创建了一个自定义的订阅对象
+type Subscription{
+    #newPhoto:Photo!
+    #也可传递参数
+    newPhoto(category:PhotoCategory):Photo!
+    newUser:User!
+}
+
 
 
 schema {
     query: Query
     mutation: Mutation
+    subscription: Subscription
 }
