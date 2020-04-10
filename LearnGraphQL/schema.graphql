@@ -1,0 +1,165 @@
+scalar DateTime
+
+enum PhotoCategory {
+    SELFIE
+    PORTRAIT
+    ACTION
+    LANDSCAPE
+    GRAPHIC
+}
+
+type Photo {
+    id: ID!
+    name:String!
+    url:String!
+    description:String
+    created:DateTime!
+    category:PhotoCategory!
+    postedBy:User! #单向连接  photo和user
+    taggedUsers:[User!]! #用户可以圈出照片中的人
+}
+
+
+type User {
+    githubLogin:ID!
+    name:String!
+    avatar:String!
+    postedPhotos:[Photo!]! #一对多连接
+    inPhotos:[Photo!]! #多对多连接  当前用户在哪些照片中
+    friends:[Friendship!]!
+}
+
+#直通类型
+type Friendship {
+    #friend_a:User!
+    #friend_b:User!
+    friends:[User!]!
+    howLong:Int!
+    whereWeMet:Location
+}
+
+scalar Location
+
+#联合类型
+union UserAndPhotoItem = User | Photo
+
+#接口
+
+interface AgendaItem {
+    name:String!
+    start:DateTime!
+    end:DateTime!
+}
+
+type StudyGroup implements AgendaItem{
+    name:String!
+    start:DateTime!
+    end:DateTime!
+    participants:[User!]!
+    topic:String!
+}
+
+type WorkOut implements AgendaItem {
+    name:String!
+    start:DateTime!
+    end:DateTime!
+    reps:Int!
+}
+
+
+#设置排序
+enum SortDirection {
+    ASCENDING
+    DESCENDING
+}
+
+enum SortablePhotoField {
+    name
+    description
+    category
+    created
+}
+
+
+
+
+#定义了api可用的查询
+type Query {
+    """
+    totalPhotos: Int!
+    allPhotos:[Photo!]!
+    totalUsers:Int!
+    allUsers:[User!]!
+
+    uAndp:[UserAndPhotoItem]  #联合类型使用
+
+    agenda:[AgendaItem] #接口使用
+
+    #参数使用
+    User(githubLogin:ID!):User!
+    Photo(id:ID!):Photo!
+    #增加筛选参数
+    keshaixuanPhotos(category:PhotoCategory):[Photo!]
+    #分页信息
+    fenyeAllUsers(first: Int=50 start:Int = 0):[User!] #默认只返回前50个
+    fenyeAllPhotos(first: Int=20 start:Int = 0):[User!]
+
+    #排序
+    paixuPhotos(
+        sort:SortDirection = DESCENDING
+        sortBy:SortablePhotoField = created
+    ):[Photo!]!
+"""
+    testNiHao:String!
+
+    echo(message:String):String!
+}
+
+
+#mutation 变更
+
+type Mutation {
+    postPhoto(
+        name:String!
+        description:String
+        category:PhotoCategory=PORTRAIT
+    ):Photo!
+    postPhoto2(input:PostPhotoInput):Photo! #使用输入类型
+}
+
+#输入类型  为了规整参数 防止过长的参数 类似一个数据对象 仅仅用来输入参数而已
+"""
+输入类型
+"""
+input PostPhotoInput {
+    name:String!
+    description:String
+    category:PhotoCategory=PORTRAIT
+}
+
+#然后加入到上面的postPhoto2
+
+
+#返回类型？？  可以自有附带相关信息到返回数据
+
+#订阅类型 subscription
+#创建了一个自定义的订阅对象
+type Subscription{
+    """
+    这里是注释信息  三个双引号起止包裹 这种会在文档查看的时候列出
+    """
+    #newPhoto:Photo!
+
+    newPhoto(category:PhotoCategory):Photo!
+    "也可传递参数 我是一个单行注释"
+    newUser:User!
+
+}
+
+
+
+schema {
+    query: Query
+    mutation: Mutation
+    subscription: Subscription
+}
