@@ -39,7 +39,7 @@ class UserList extends \Google\Protobuf\Internal\Message
     private $limit = 0;
 
     public function __construct() {
-        \GPBMetadata\Proto\User::initOnce();
+        \Sample\Model\GPBMetadata\Proto\User::initOnce();
         parent::__construct();
     }
 

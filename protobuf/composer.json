@@ -1,5 +1,10 @@
 {
+    "name": "clarence/protobuf",
+    "description": "learn php protobuf",
     "require": {
         "google/protobuf": "^3.12"
+    },
+    "autoload": {
+        "classmap": ["sdk/"]
     }
 }

@@ -63,7 +63,7 @@ class User extends \Google\Protobuf\Internal\Message
     private $ext;
 
     public function __construct() {
-        \GPBMetadata\Proto\User::initOnce();
+        \Sample\Model\GPBMetadata\Proto\User::initOnce();
         parent::__construct();
     }
 
