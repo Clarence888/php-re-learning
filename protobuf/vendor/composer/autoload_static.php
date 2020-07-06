@@ -26,7 +26,10 @@ class ComposerStaticInite702eca8e24b10426b300337a5fbea0c
     );
 
     public static $classMap = array (
+        'Sample\\Model\\AllInfo' => __DIR__ . '/../..' . '/sdk/php/Sample/Model/AllInfo.php',
+        'Sample\\Model\\GPBMetadata\\Proto\\JianYe' => __DIR__ . '/../..' . '/sdk/php/Sample/Model/GPBMetadata/Proto/JianYe.php',
         'Sample\\Model\\GPBMetadata\\Proto\\User' => __DIR__ . '/../..' . '/sdk/php/Sample/Model/GPBMetadata/Proto/User.php',
+        'Sample\\Model\\JianYe' => __DIR__ . '/../..' . '/sdk/php/Sample/Model/JianYe.php',
         'Sample\\Model\\User' => __DIR__ . '/../..' . '/sdk/php/Sample/Model/User.php',
         'Sample\\Model\\UserList' => __DIR__ . '/../..' . '/sdk/php/Sample/Model/UserList.php',
     );

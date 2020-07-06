@@ -1,0 +1,1476 @@
+{
+  "content": [
+    {
+      "date": "2020-06-10",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-06-11",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-06-12",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-06-13",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-06-14",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-06-15",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-06-16",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-06-17",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-06-18",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-06-19",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-06-20",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-06-21",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-06-22",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-06-23",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-06-24",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-06-25",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-06-26",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-06-27",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-06-28",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-06-29",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-06-30",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-01",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-02",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-03",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-04",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-05",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-06",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-07",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-08",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-09",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-10",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-11",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-12",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-13",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-14",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-15",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-16",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-17",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-18",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-19",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-20",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-21",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-22",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-23",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-24",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-25",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-26",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-27",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-28",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-29",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-30",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-07-31",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-01",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-02",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-03",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-04",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-05",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-06",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-07",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-08",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-09",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-10",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-11",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-12",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-13",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-14",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-15",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-16",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-17",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-18",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-19",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-20",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-21",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-22",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-23",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-24",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-25",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-26",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-27",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-28",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-29",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-30",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-08-31",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-01",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-02",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-03",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-04",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-05",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-06",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-07",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-08",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-09",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-10",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-11",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-12",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-13",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-14",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-15",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-16",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-17",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-18",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-19",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-20",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-21",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-22",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-23",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-24",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-25",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-26",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-27",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-28",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-29",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-09-30",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-01",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-02",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-03",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-04",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-05",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-06",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-07",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-08",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-09",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-10",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-11",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-12",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-13",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-14",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-15",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-16",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-17",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-18",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-19",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-20",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-21",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-22",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 0,
+      "useQty": 1
+    },
+    {
+      "date": "2020-10-23",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-10-24",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-10-25",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-10-26",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-10-27",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-10-28",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-10-29",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-10-30",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-10-31",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-01",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-02",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-03",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-04",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-05",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-06",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-07",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-08",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-09",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-10",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-11",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-12",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-13",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-14",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-15",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-16",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-17",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-18",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-19",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-20",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-21",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-22",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-23",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-24",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-25",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-26",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-27",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-28",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-29",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-11-30",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-12-01",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-12-02",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-12-03",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-12-04",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-12-05",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-12-06",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-12-07",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-12-08",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-12-09",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    },
+    {
+      "date": "2020-12-10",
+      "totalQty": 1,
+      "currentQty": 1,
+      "orderQty": 0,
+      "lockQty": 1,
+      "useQty": 0
+    }
+  ]
+}

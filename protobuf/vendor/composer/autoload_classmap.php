@@ -6,7 +6,10 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Sample\\Model\\AllInfo' => $baseDir . '/sdk/php/Sample/Model/AllInfo.php',
+    'Sample\\Model\\GPBMetadata\\Proto\\JianYe' => $baseDir . '/sdk/php/Sample/Model/GPBMetadata/Proto/JianYe.php',
     'Sample\\Model\\GPBMetadata\\Proto\\User' => $baseDir . '/sdk/php/Sample/Model/GPBMetadata/Proto/User.php',
+    'Sample\\Model\\JianYe' => $baseDir . '/sdk/php/Sample/Model/JianYe.php',
     'Sample\\Model\\User' => $baseDir . '/sdk/php/Sample/Model/User.php',
     'Sample\\Model\\UserList' => $baseDir . '/sdk/php/Sample/Model/UserList.php',
 );
