@@ -1,0 +1,10 @@
+idea/workspace.xml
+bin/.DS_Store
+.DS_Store
+/.env.local
+/.env.local.php
+/.env.*.local
+/public/bundles/
+/var/
+/vendor/
+
